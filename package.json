@@ -1,0 +1,19 @@
+{
+  "name": "sinai-frontend-challenge",
+  "version": "1.0.0",
+  "author": "Ben Kramer <benmkramer@gmail.com>",
+  "private": true,
+  "engines": {
+    "node": ">=12",
+    "yarn": ">=1"
+  },
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "server:start": "yarn workspace server start",
+    "client:start": "yarn workspace client start",
+    "start": "concurrently \"yarn server:start\"  \"yarn client:start\""
+  },
+  "dependencies": {
+    "concurrently": "^6.0.0"
+  }
+}

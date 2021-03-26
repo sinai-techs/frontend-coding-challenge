@@ -1,0 +1,210 @@
+[
+  {
+    "id": "AKGD",
+    "name": "(ASCC Alaska Grid)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": "039.6",
+    "n2o": 0.082
+  },
+  {
+    "id": "AKMS",
+    "name": "(ASCC Miscellaneous)",
+    "unit": "lb/MWh",
+    "co2": 525.1,
+    "ch4": 0.024,
+    "n2o": 0.004
+  },
+  {
+    "id": "AZNM",
+    "name": "(WECC Southwest)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": "022.4",
+    "n2o": 0.077
+  },
+  {
+    "id": "CAMX",
+    "name": "(WECC California)",
+    "unit": "lb/MWh",
+    "co2": 496.5,
+    "ch4": 0.034,
+    "n2o": 0.004
+  },
+  {
+    "id": "ERCT",
+    "name": "(ERCOT All)",
+    "unit": "lb/MWh",
+    "co2": 931.7,
+    "ch4": 0.066,
+    "n2o": 0.009
+  },
+  {
+    "id": "FRCC",
+    "name": "(FRCC All)",
+    "unit": "lb/MWh",
+    "co2": 931.8,
+    "ch4": 0.066,
+    "n2o": 0.009
+  },
+  {
+    "id": "HIMS",
+    "name": "(HICC Miscellaneous)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 110.7,
+    "n2o": 0.118
+  },
+  {
+    "id": "HIOA",
+    "name": "(HICC Oahu)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 669.9,
+    "n2o": 0.18
+  },
+  {
+    "id": "MROE",
+    "name": "(MRO East)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 678,
+    "n2o": 0.169
+  },
+  {
+    "id": "MROW",
+    "name": "(MRO West)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 239.8,
+    "n2o": 0.138
+  },
+  {
+    "id": "NEWE",
+    "name": "(NPCC New England)",
+    "unit": "lb/MWh",
+    "co2": 522.3,
+    "ch4": 0.082,
+    "n2o": 0.011
+  },
+  {
+    "id": "NWPP",
+    "name": "(WECC Northwest)",
+    "unit": "lb/MWh",
+    "co2": 639,
+    "ch4": 0.064,
+    "n2o": 0.009
+  },
+  {
+    "id": "NYCW",
+    "name": "(NPCC NYC/Westchester)",
+    "unit": "lb/MWh",
+    "co2": 596.4,
+    "ch4": 0.022,
+    "n2o": 0.003
+  },
+  {
+    "id": "NYLI",
+    "name": "(NPCC Long Island)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 184.2,
+    "n2o": 0.139
+  },
+  {
+    "id": "NYUP",
+    "name": "(NPCC Upstate NY)",
+    "unit": "lb/MWh",
+    "co2": 253.1,
+    "ch4": 0.018,
+    "n2o": 0.002
+  },
+  {
+    "id": "RFCE",
+    "name": "(RFC East)",
+    "unit": "lb/MWh",
+    "co2": 716,
+    "ch4": 0.061,
+    "n2o": 0.008
+  },
+  {
+    "id": "RFCM",
+    "name": "(RFC Michigan)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 312.6,
+    "n2o": 0.129
+  },
+  {
+    "id": "RFCW",
+    "name": "(RFC West)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 166.1,
+    "n2o": 0.117
+  },
+  {
+    "id": "RMPA",
+    "name": "(WECC Rockies)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 273.6,
+    "n2o": 0.123
+  },
+  {
+    "id": "SPNO",
+    "name": "(SPP North)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 163.2,
+    "n2o": 0.124
+  },
+  {
+    "id": "SPSO",
+    "name": "(SPP South)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 166.6,
+    "n2o": 0.091
+  },
+  {
+    "id": "SRMV",
+    "name": "(SERC Mississippi Valley)",
+    "unit": "lb/MWh",
+    "co2": 854.6,
+    "ch4": 0.055,
+    "n2o": 0.008
+  },
+  {
+    "id": "SRMW",
+    "name": "(SERC Midwest)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": 664.2,
+    "n2o": 0.185
+  },
+  {
+    "id": "SRSO",
+    "name": "(SERC South)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": "027.9",
+    "n2o": 0.081
+  },
+  {
+    "id": "SRTV",
+    "name": "(SERC Tennessee Valley)",
+    "unit": "lb/MWh",
+    "co2": 1,
+    "ch4": "031.5",
+    "n2o": 0.097
+  },
+  {
+    "id": "SRVC",
+    "name": "(SERC Virginia/Carolina)",
+    "unit": "lb/MWh",
+    "co2": 743.3,
+    "ch4": 0.067,
+    "n2o": 0.009
+  }
+]

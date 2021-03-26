@@ -1,0 +1,7 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo \"WARNING: package client has no start command\""
+  }
+}

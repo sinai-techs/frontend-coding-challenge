@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Beef (beef herd)",
+    "unit": "kg/kg",
+    "co2e": 60.0
+  },
+  {
+    "name": "Lamb & Mutton",
+    "unit": "kg/kg",
+    "co2e": 24.0
+  },
+  {
+    "name": "Cheese",
+    "unit": "kg/kg",
+    "co2e": 21.0
+  },
+  {
+    "name": "Beef (dairy herd)",
+    "unit": "kg/kg",
+    "co2e": 21.0
+  },
+  {
+    "name": "Chocolate",
+    "unit": "kg/kg",
+    "co2e": 19.0
+  },
+  {
+    "name": "Coffee",
+    "unit": "kg/kg",
+    "co2e": 17.0
+  },
+  {
+    "name": "Prawns (farmed)",
+    "unit": "kg/kg",
+    "co2e": 12.0
+  },
+  {
+    "name": "Palm Oil",
+    "unit": "kg/kg",
+    "co2e": 8.0
+  },
+  {
+    "name": "Pig Meat",
+    "unit": "kg/kg",
+    "co2e": 7.0
+  },
+  {
+    "name": "Poultry Meat",
+    "unit": "kg/kg",
+    "co2e": 6.0
+  },
+  {
+    "name": "Olive Oil",
+    "unit": "kg/kg",
+    "co2e": 6.0
+  },
+  {
+    "name": "Fish (farmed)",
+    "unit": "kg/kg",
+    "co2e": 5.0
+  },
+  {
+    "name": "Eggs",
+    "unit": "kg/kg",
+    "co2e": 4.5
+  },
+  {
+    "name": "Rice",
+    "unit": "kg/kg",
+    "co2e": 4.0
+  },
+  {
+    "name": "Fish (wild catch)",
+    "unit": "kg/kg",
+    "co2e": 3.0
+  },
+  {
+    "name": "Milk",
+    "unit": "kg/kg",
+    "co2e": 3.0
+  },
+  {
+    "name": "Cane Sugar",
+    "unit": "kg/kg",
+    "co2e": 3.0
+  },
+  {
+    "name": "Groundnuts",
+    "unit": "kg/kg",
+    "co2e": 2.5
+  },
+  {
+    "name": "Wheat & Rye",
+    "unit": "kg/kg",
+    "co2e": 1.4
+  },
+  {
+    "name": "Tomatoes",
+    "unit": "kg/kg",
+    "co2e": 1.4
+  },
+  {
+    "name": "Corn",
+    "unit": "kg/kg",
+    "co2e": 1.0
+  },
+  {
+    "name": "Cassava",
+    "unit": "kg/kg",
+    "co2e": 1.0
+  },
+  {
+    "name": "Soy Milk",
+    "unit": "kg/kg",
+    "co2e": 0.9
+  },
+  {
+    "name": "Peas",
+    "unit": "kg/kg",
+    "co2e": 0.9
+  },
+  {
+    "name": "Bananas",
+    "unit": "kg/kg",
+    "co2e": 0.7
+  },
+  {
+    "name": "Root Vegetables",
+    "unit": "kg/kg",
+    "co2e": 0.4
+  },
+  {
+    "name": "Apples",
+    "unit": "kg/kg",
+    "co2e": 0.4
+  },
+  {
+    "name": "Citrus Fruit",
+    "unit": "kg/kg",
+    "co2e": 0.3
+  },
+  {
+    "name": "Nuts",
+    "unit": "kg/kg",
+    "co2e": 0.3
+  }
+]
