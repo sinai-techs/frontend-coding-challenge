@@ -9,14 +9,15 @@ Build a personal carbon footprint calculator application, providing interfaces f
 - Mobile Transportation
 - Electricity
 
+*Hint*: if you need some inspiration, check out the EPA’s household calculator (use zip code 94114)
+
 In this repository, you will find there is a backend server ready to serve data for these three categories. Please see the code in `packages/server/index.js` to see the endpoints available and the data it returns. Generally, each endpoint returns some data including emissions factors for some gases (`co2`, `ch4`, `n2o`) as well as a unit and some categorization data. *Note* that the unit property is representing the amount of the gas emitted per amount of the item. For example, if you see `"unit": "g/mile", "n2o": 0.5` then that means for that given item that `0.5g` of `n2o` will be emitted per mile traveled.
 
 ### Getting Started
 
 **System Requirements**
 - [Node](https://nodejs.org/en/) 12 or later
-- [Yarn](https://yarnpkg.com/) 1 or later.
-  - FYI: This repo is using yarn workspaces
+- [Yarn](https://yarnpkg.com/) 1 or later (this repo is using [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/))
 
 **Adding your code to the project**
 
@@ -37,4 +38,4 @@ You can run the server with `yarn server:start`. Once you have the client start 
 - Clear understanding of UI fundamentals such as state management and handling network requests
 - Utilization of git to track changes
 
-If you get stuck, run into problems, or have any questions, then please send an email to [Alain](mailto:alain@sinaitechnologies.com) or [Ben](mailto:ben@sinaitechnologies.com).
+If you get stuck, run into problems, or have any questions, then please send an email to [Aaron](mailto:aaron@sinaitechnologies.com) and [Ben](mailto:ben@sinaitechnologies.com).
