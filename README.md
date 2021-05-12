@@ -9,7 +9,7 @@ Your task is to build a personal carbon footprint calculator application, provid
 - Mobile Transportation
 - Electricity
 
-*Hint*: if you need some inspiration, check out the EPA’s household calculator (use zip code 94114)
+*Hint*: if you need some inspiration, check out the [EPA’s household calculator (use zip code 94114)](https://www3.epa.gov/carbon-footprint-calculator/)
 
 In this repository, you will find there is a backend server ready to serve data for these three categories. Please see the code in `packages/server/index.js` to see the endpoints available and the data it returns. Generally, each endpoint returns some data including emissions factors for some gases (`co2`, `ch4`, `n2o`) as well as a unit and some categorization data. *Note* that the unit property is representing the amount of the gas emitted per amount of the item. For example, if you see `"unit": "g/mile", "n2o": 0.5` then that means for that given item that `0.5g` of `n2o` will be emitted per mile traveled.
 
