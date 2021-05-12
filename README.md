@@ -4,7 +4,7 @@
 
 At SINAI, we are all about taking a numerical approach to carbon management. As part of that effort, we have to compute the carbon footprint of everyday activities. While we focus on business processes, you can apply similar methodologies to personal activities.
 
-Build a personal carbon footprint calculator application, providing interfaces for at least two of the following categories:
+Your task is to build a personal carbon footprint calculator application, providing interfaces for at least two of the following categories:
 - Food
 - Mobile Transportation
 - Electricity
@@ -21,16 +21,16 @@ In this repository, you will find there is a backend server ready to serve data 
 
 **Adding your code to the project**
 
-We use React here at SINAI, so if you are familiar with it, then we suggest using it. However if you are not familiar with React, or you feel like your skills will be better represented using another framework such as Angular or Vue, then that is OK too!
+We use React here at SINAI, so if you are familiar with it, then we suggest using it for your coding challenge. However, if you are not familiar with React or if you feel that your skills will be better represented using another framework such as Angular or Vue, then that is OK, too!
 
-We also suggest using an available component library instead of styling everything by hand (we use [Ant.Design](https://ant.design/)).
+We also recommend using an available component library instead of styling everything by hand (we use [Ant.Design](https://ant.design/)).
 
 
 Put your client code inside `packages/client` and be sure to add to `packages/client/package.json` a start script. You can add packages to the client from the repo's root directory by entering `yarn workspace client add {package-name}`
 
 **Running the code (server & client)**
 
-You can run the server with `yarn server:start`. Once you have the client start script, you can run both simultaneously with `yarn start` which will call both the server and client's `start` command.
+You can run the server with `yarn server:start`. Once you have the client start script, you can run both simultaneously with `yarn start` (which will call both the server and client's `start` command).
 
 ### Our Expectations
 
