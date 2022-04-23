@@ -38,4 +38,4 @@ You can run the server with `yarn server:start`. Once you have the client start 
 - Clear understanding of UI fundamentals such as state management and handling network requests
 - Utilization of git to track changes
 
-If you get stuck, run into problems, or have any questions, then please send an email to [Aaron](mailto:aaron@sinaitechnologies.com) and [Ben](mailto:ben@sinaitechnologies.com).
+If you get stuck, run into problems, or have any questions, don't hesitate to reach out to us.
